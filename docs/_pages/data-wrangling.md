@@ -19,7 +19,7 @@ This makes it easy to pull in the data programmatically without having to scrape
   stats = GameLog(season='2016-17', season_type='Regular Season', player_or_team='P').overall()
 ```
 
-A Jupyter Notebook detailing some of the available stats is located [here](https://github.com/klane/databall/blob/master/notebooks/nba-stats.ipynb). The API also provides sensible defaults, such as the current season for the season parameter, which reduces the amount of code required. The code below produces the same output as that above given that this page was written during the 2016-17 season. These two code snippets will produce different results at the start of the 2017-18 campaign.
+A Jupyter Notebook detailing some of the available stats is located [here](https://github.com/klane/databall1/blob/master/notebooks/nba-stats.ipynb). The API also provides sensible defaults, such as the current season for the season parameter, which reduces the amount of code required. The code below produces the same output as that above given that this page was written during the 2016-17 season. These two code snippets will produce different results at the start of the 2017-18 campaign.
 
 ```python
   from nba_py.league import GameLog

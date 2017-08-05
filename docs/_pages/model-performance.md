@@ -4,7 +4,7 @@ title: Model Performance
 permalink: /results/performance/
 ---
 
-This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall/blob/master/notebooks/model-performance.ipynb). It compares model performance using various algorithms. First we must import the necessary installed modules.
+This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall1/blob/master/notebooks/model-performance.ipynb). It compares model performance using various algorithms. First we must import the necessary installed modules.
 
 
 ```python

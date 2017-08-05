@@ -4,7 +4,7 @@ title: Parameter Tuning
 permalink: /model/parameters/
 ---
 
-This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall/blob/master/notebooks/parameter-tuning.ipynb). It investigates tuning model parameters to achieve better performance. First we must import the necessary installed modules.
+This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall1/blob/master/notebooks/parameter-tuning.ipynb). It investigates tuning model parameters to achieve better performance. First we must import the necessary installed modules.
 
 
 ```python

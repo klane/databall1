@@ -4,7 +4,7 @@ title: Feature Selection
 permalink: /model/features/
 ---
 
-This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall/blob/master/notebooks/feature-selection.ipynb). It investigates which attributes in the database to select for further study. First we must import the necessary installed modules.
+This page was created from a Jupyter notebook. The original notebook can be found [here](https://github.com/klane/databall1/blob/master/notebooks/feature-selection.ipynb). It investigates which attributes in the database to select for further study. First we must import the necessary installed modules.
 
 
 ```python

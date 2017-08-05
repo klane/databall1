@@ -4,7 +4,7 @@ This project uses [scikit-learn](http://scikit-learn.org/stable/) to predict the
 
 Contents:
 - covers: Scrapy code to scrape Vegas betting data from [covers.com](http://covers.com)
-- docs: Code required to build the GitHub Pages [site](https://klane.github.io/databall/) for this project
+- docs: Code required to build the GitHub Pages [site](https://klane.github.io/databall1/) for this project
 - nba: Code to create database and calculate stats
 - notebooks: Jupyter notebooks of all analyses
 - report: LaTeX files for report and slides
