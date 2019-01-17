@@ -1,4 +1,6 @@
-# DataBall
+# DataBall (deprecated)
+
+Development continued at [databall](https://github.com/klane/databall).
 
 This project uses [scikit-learn](http://scikit-learn.org/stable/) to predict the winners of NBA games.
 
